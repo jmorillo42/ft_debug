@@ -2,7 +2,7 @@
 
 void	ft_exit(void)
 {
-	system("leaks debug");
+	system("leaks main");
 }
 
 void	debug_leaks(void)
